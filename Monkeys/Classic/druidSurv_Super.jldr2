@@ -1,5 +1,5 @@
 {
-  "name": "druidSurv_Super",
+  "name": "_Super",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Super Monkey",
   "description": "Oh you're from the Fan Club? Of course you are.",
@@ -11,7 +11,7 @@
   "bloodCost": 3,
   "bonesCost": 0,
   "tribes": [ "druidSurv_Magic" ],
-  "abilities": [ "nevernamed.inscryption.sigils_Triple Strike", "nevernamed.inscryption.sigils_Docile" ], 
+  "abilities": [ "nevernamed.inscryption.sigils_Triple Strike", "nevernamed.inscryption.sigils_Trophy Hunter", "nevernamed.inscryption.sigils_Docile" ], 
   "altTexture": "druidSurv_emission.png",
   "texture": "druidSurv_HoTDruid.png",
   "extensionProperties": {

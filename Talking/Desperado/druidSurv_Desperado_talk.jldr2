@@ -1,79 +1,80 @@
 {
-  "cardName": "druidSurv_Grover",
-  "faceSprite": "druidSurv_Grover_face.png",
+  "cardName": "druidSurv_Desperado",
+  "faceSprite": "druidSurv_Desperado_face.png",
   "eyeSprites": {
-    "open": "druidSurv_Grover_neutral_eye_open.png",
-    "closed": "druidSurv_Grover_neutral_eye_closed.png"
+    "open": "druidSurv_Desperado_eyes.png",
+    "closed": "druidSurv_Desperado_blink.png"
   },
   "mouthSprites": {
     "open": "druidSurv_Grover_neutral_mouth_open.png",
     "closed": "druidSurv_Grover_neutral_mouth_closed.png"
   },
-  "emissionSprite": "druidSurv_Grover_neutral_emission.png",
+  "emissionSprite": "druidSurv_Desperado_emission.png",
   "faceInfo": {
-    "blinkRate": 99,
-    "customVoice": "druidSurv_Grover_Voice.ogg"
+    "blinkRate": 1.5,
+    "voiceId": "female1_voice",
+    "voiceSoundPitch": 2
   },
   "emotions": [
     {
       "emotion": "Anger",
       "eyeSprites": {
-        "open": "druidSurv_Grover_neutral_eye_open.png",
-        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+        "open": "druidSurv_Desperado_eyes.png",
+        "closed": "druidSurv_Desperado_blink.png"
       },
       "mouthSprites": {
         "open": "druidSurv_Grover_neutral_mouth_open.png",
         "closed": "druidSurv_Grover_neutral_mouth_closed.png"
       },
-      "emissionSprite": "druidSurv_Grover_angry_emission.png"
+      "emissionSprite": "druidSurv_Desperado_emission.png"
     },
     {
       "emotion": "Quiet",
       "eyeSprites": {
-        "open": "druidSurv_Grover_neutral_eye_open.png",
-        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+        "open": "druidSurv_Desperado_eyes.png",
+        "closed": "druidSurv_Desperado_blink.png"
       },
       "mouthSprites": {
         "open": "druidSurv_Grover_neutral_mouth_open.png",
         "closed": "druidSurv_Grover_neutral_mouth_closed.png"
       },
-      "emissionSprite": "druidSurv_Grover_quiet_emission.png"
+      "emissionSprite": "druidSurv_Desperado_emission.png"
     },
     {
       "emotion": "Laughter",
       "eyeSprites": {
-        "open": "druidSurv_Grover_neutral_eye_open.png",
-        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+        "open": "druidSurv_Desperado_eyes.png",
+        "closed": "druidSurv_Desperado_blink.png"
       },
       "mouthSprites": {
         "open": "druidSurv_Grover_neutral_mouth_open.png",
         "closed": "druidSurv_Grover_neutral_mouth_closed.png"
       },
-      "emissionSprite": "druidSurv_Grover_laughtedruidSurv_Grover_emission.png"
+      "emissionSprite": "druidSurv_Desperado_emission.png"
     },
     {
       "emotion": "Surprise",
       "eyeSprites": {
-        "open": "druidSurv_Grover_neutral_eye_open.png",
-        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+        "open": "druidSurv_Desperado_eyes.png",
+        "closed": "druidSurv_Desperado_blink.png"
       },
       "mouthSprites": {
         "open": "druidSurv_Grover_neutral_mouth_open.png",
         "closed": "druidSurv_Grover_neutral_mouth_closed.png"
       },
-      "emissionSprite": "druidSurv_Grover_surprised_emission.png"
+      "emissionSprite": "druidSurv_Desperado_emission.png"
     },
     {
       "emotion": "Curious",
       "eyeSprites": {
-        "open": "druidSurv_Grover_neutral_eye_open.png",
-        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+        "open": "druidSurv_Desperado_eyes.png",
+        "closed": "druidSurv_Desperado_blink.png"
       },
       "mouthSprites": {
         "open": "druidSurv_Grover_neutral_mouth_open.png",
         "closed": "druidSurv_Grover_neutral_mouth_closed.png"
       },
-      "emissionSprite": "druidSurv_Grover_neutral_emission.png"
+      "emissionSprite": "druidSurv_Desperado_emission.png"
     }
   ],
   "dialogueEvents": []

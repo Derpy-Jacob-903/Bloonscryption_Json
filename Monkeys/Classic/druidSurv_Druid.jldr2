@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Druid",
+  "name": "_Druid",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Druid",
-  "description": "ToDo",
+  "description": "The answer is to nurture nature.",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

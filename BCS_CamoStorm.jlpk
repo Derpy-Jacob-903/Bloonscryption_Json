@@ -1,0 +1,7 @@
+{
+  "Title": "Bloonscryption (Camo Storm)",
+  "Description": "Adds Monkeys and Bloons from the "Camo Storm" set (preimtivly adding this)",
+  "ModPrefix": "druidSurv_CamoSet",
+  "PackArt": "ClassicPack.png",
+  "ValidFor": ["LeshyPack"]
+}

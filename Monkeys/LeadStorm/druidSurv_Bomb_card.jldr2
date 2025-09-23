@@ -2,7 +2,7 @@
   "name": "druidSurv_Bomb",
   "modPrefix": "druidSurv",
   "displayedName": "Bomb",
-  "description": "[c:r]Data not found.",
+  "description": "This bad boy was made for armor piercing",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",

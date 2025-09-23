@@ -11,7 +11,7 @@
   "bloodCost": 1,
   "bonesCost": 7,
   "tribes": [ "druidSurv_LargeBloon" ],
-  "abilities": ["druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Gooey" ],
+  "abilities": ["druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Gooey", "nevernamed.inscryption.sigils_Sweeping Strike Left"  ],
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
   "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
   "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",

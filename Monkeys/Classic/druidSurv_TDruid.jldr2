@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_TDruid",
+  "name": "_TDruid",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Thunder Druid",
-  "description": "ToDo",
+  "description": "Did someone ask for THUNDER?",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

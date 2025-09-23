@@ -1,5 +1,5 @@
 {
-  "name": "druidSurv_Bloon_Undead",
+  "name": "_Bloon_Undead",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Undead Bloon",
   "description": "[c:bSG]Braaaaaaains![c:]",
@@ -15,5 +15,8 @@
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
   "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
   "pixelTexture": "druidSurv_BloonUndead_PixelSprite.png",
-  "texture": "druidSurv_Undead.png"
+  "texture": "druidSurv_Undead.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
 }

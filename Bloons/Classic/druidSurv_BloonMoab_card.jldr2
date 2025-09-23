@@ -7,7 +7,7 @@
   "cardComplexity": "Vanilla",
   "temple": "Nature",
   "baseAttack": 0,
-  "baseHealth": 12,
+  "baseHealth": 10,
   "bloodCost": 1,
   "bonesCost": 6,
   "tribes": [ "druidSurv_LargeBloon" ],

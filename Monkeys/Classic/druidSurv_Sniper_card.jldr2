@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Sniper",
+  "name": "_Sniper",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Sniper",
-  "description": "ToDo",
+  "description": "Over 900 confirmed pops. That's just today.",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Simple",
   "temple": "Nature",

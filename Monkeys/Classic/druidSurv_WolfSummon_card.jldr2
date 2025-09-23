@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Wolf",
+  "name": "_Wolf",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Wolf",
-  "description": "Our old friend, back once more.",
+  "description": "Bark at the moon.",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

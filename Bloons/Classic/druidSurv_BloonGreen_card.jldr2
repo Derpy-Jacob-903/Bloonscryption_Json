@@ -1,5 +1,5 @@
 {
-  "name": "druidSurv_Bloon_Green",
+  "name": "_Bloon_Green",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Green Bloon",
   "description": "The Bloons are always greener on the other side.",
@@ -7,7 +7,7 @@
   "cardComplexity": "Vanilla",
   "temple": "Nature",
   "baseAttack": 1,
-  "baseHealth": 3,
+  "baseHealth": 2,
   "bloodCost": 0,
   "bonesCost": 2,
   "tribes": [ "druidSurv_SmallBloon" ],

@@ -1,5 +1,5 @@
 {
-  "name": "druidSurv_Bloon_Zomg",
+  "name": "_Bloon_Zomg",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Zomg",
   "description": "Death from above!",
@@ -11,7 +11,7 @@
   "bloodCost": 1,
   "bonesCost": 10,
   "tribes": [ "druidSurv_LargeBloon" ],
-  "abilities": ["druidSurv.sigils_Delayed Attack", "MadeOfStone", "nevernamed.inscryption.sigils_Giant", "nevernamed.inscryption.sigils_Sweeping Strike Left"  ],
+  "abilities": ["druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Giant", "nevernamed.inscryption.sigils_Sweeping Strike Left"  ],
   "iceCubeName": "druidSurv_Bloon_Brown",
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
   "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",

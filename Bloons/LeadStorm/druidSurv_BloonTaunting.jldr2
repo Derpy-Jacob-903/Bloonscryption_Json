@@ -1,0 +1,26 @@
+{
+  "name": "_Bloon_Taunting",
+  "modPrefix": "druidSurv_LeadSet",
+  "displayedName": "Taunting Bloon",
+  "description": "Now that's a tempting target...",
+  "metaCategories": [ "zorro.inscryption.infiniscryption.sidedecks.SideDeck" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "energyCost": 2,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Frail", "nevernamed.inscryption.sigils_Tempting Target"  ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_Orange.png",
+  "pixelTexture": "druidSurv_BloonOrange_PixelSprite.png",
+  "extensionProperties": {
+  "CSDIsSideDeck": "true",
+  "CSDSideDeckType": "Basic",
+  "CSDIsAqua": "false",
+  "CSDChallengePoints": "-5",
+  "AvailableInBottle": "true"
+}
+}

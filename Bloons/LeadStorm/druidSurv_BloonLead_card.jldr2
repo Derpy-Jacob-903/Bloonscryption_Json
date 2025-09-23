@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Bloon_Lead",
-  "modPrefix": "druidSurv_Bloon",
+  "name": "_Bloon_Lead",
+  "modPrefix": "druidSurv_LeadSet",
   "displayedName": "Lead Bloon",
-  "description": "Hm. I'm not used to announcing this one.",
+  "description": "PLINK!",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

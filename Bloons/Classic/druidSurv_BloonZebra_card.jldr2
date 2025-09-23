@@ -1,5 +1,5 @@
 {
-  "name": "druidSurv_Bloon_Zebra",
+  "name": "_Bloon_Zebra",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Zebra Bloon",
   "description": "Full of cards and covered in stripes!",
@@ -7,7 +7,7 @@
   "cardComplexity": "Vanilla",
   "temple": "Nature",
   "baseAttack": 0,
-  "baseHealth": 7,
+  "baseHealth": 5,
   "bloodCost": 2,
   "bonesCost": 3,
   "tribes": [ "druidSurv_SmallBloon" ],

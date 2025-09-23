@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_JVDruid",
+  "name": "_JVDruid",
   "modPrefix": "druidSurv_Classic",
-  "displayedName": "Thunder Druid",
-  "description": "ToDo",
+  "displayedName": "Jungle's Bounty",
+  "description": "Amongst the few who know the curative properties of the humble banana.",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

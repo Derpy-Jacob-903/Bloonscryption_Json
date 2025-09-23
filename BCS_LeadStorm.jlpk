@@ -1,7 +1,7 @@
 {
   "Title": "Bloonscryption (Lead Storm)",
   "Description": "Adds Monkeys and Bloons from the "Lead Storm" set.",
-  "ModPrefix": "druidSurv_Lead",
+  "ModPrefix": "druidSurv_LeadSet",
   "PackArt": "LeadStormPack.png",
   "ValidFor": ["LeshyPack"]
 }

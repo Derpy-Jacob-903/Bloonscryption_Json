@@ -1,6 +1,6 @@
 {
-  "name": "druidSurv_DartTwin",
-  "modPrefix": "druidSurv_Classic",
+  "name": "_DartTwin",
+  "modPrefix": "druidSurv_Classic2",
   "displayedName": "Dart Twin",
   "description": "Our old friend, back once more.",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
