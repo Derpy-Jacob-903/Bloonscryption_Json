@@ -1,0 +1,19 @@
+{
+  "name": "_Bloon_DoubleGreen",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Double Green",
+  "description": "Wait, there isn't a green corner!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 4,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "DoubleStrike" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonGreen_PixelSprite.png",
+  "texture": "druidSurv_Green.png"
+}

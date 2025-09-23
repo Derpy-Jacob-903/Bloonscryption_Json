@@ -1,0 +1,26 @@
+{
+  "name": "druidSurv_Bloon_Orange",
+  "modPrefix": "druidSurv_Bloon",
+  "displayedName": "Orange Bloon",
+  "description": "The classic nemesis of all Monkey-kind",
+  "metaCategories": [ "zorro.inscryption.infiniscryption.sidedecks.SideDeck" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "bonesCost": 0,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_Orange.png",
+  "pixelTexture": "druidSurv_BloonOrange_PixelSprite.png",
+  "extensionProperties": {
+  "CSDIsSideDeck": "true",
+  "CSDSideDeckType": "Basic",
+  "CSDIsAqua": "false",
+  "CSDChallengePoints": "-5",
+  "AvailableInBottle": "true"
+}
+}

@@ -1,0 +1,86 @@
+{
+  "name": "DruidSurv_Eevee",
+  "minDifficulty": 0,
+  "maxDifficulty": 999,
+  "regions": [
+    "Alpine"
+  ],
+  "dominantTribes": [
+    "druidSurv.SmallBloon",
+    "druidSurv.Primary"
+  ],
+  "randomReplaceChance":25,
+  "randomReplacementCards": [ "druidSurv_Bloon_Green", "druidSurv_Mortar", "druidSurv_tack", "druidSurv_Boomerang" ],
+  "turns": [
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Red"
+        },
+        {
+          "card": "druidSurv_Bloon_Red"
+        },
+        {
+          "card": "druidSurv_Bloon_Red"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Gold"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Gold"
+        },
+        {
+          "card": "druidSurv_Bloon_Green"
+        },
+        {
+          "card": "druidSurv_Bloon_Stun"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Mortar"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Boomerang"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        },
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        },
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        },
+        {
+          "card": "druidSurv_Bloon_Brown"
+        }
+      ]
+    }
+  ]
+}

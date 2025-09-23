@@ -1,0 +1,22 @@
+{
+  "name": "druidSurv_Bloon_SwarmRed",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Swarm Reds",
+  "description": "All Swarms start somewhere. Or end somewhere.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "bonesCost": 0,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "druidSurv.sigils_Swarm", "BuffEnemy" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_Red.png",
+  "pixelTexture": "druidSurv_Bloon_PixelSprite.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+	}
+}

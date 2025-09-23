@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_tack3",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Blade Maelstrom",
+  "description": "Today's forecast: 100% chance of blades!",
+  "metaCategories": [ "Rare", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 6,
+  "onePerDeck": true,
+  "bloodCost": 3,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Return Strike", "DoubleStrike", "AllStrike"],
+  "altTexture": "druidSurv_tack.png",
+  "texture": "druidSurv_tack.png",
+  "defaultEvolutionName": "Super Maelstrom",
+  "appearanceBehavior": ["RareCardBackground", "RareCardColors"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_Bloon_SwarmGreen",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Green Bloon",
+  "description": "Not the fields of green you were expecting.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 6,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "druidSurv.sigils_Swarm", "BuffEnemy" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonGreen_PixelSprite.png",
+  "texture": "druidSurv_Green.png"
+}

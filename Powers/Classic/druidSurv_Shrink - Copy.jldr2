@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_Archer's Instinct",
+  "modPrefix": "druidSurv",
+  "displayedName": "Archer's Instinct",
+  "description": "It's more of a temporal contraction, but it does also get smaller!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Tech",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 0,
+  "tribes": [ "druidSurv_Power" ],
+  "abilities": [ "druidSurv.sigils_Pick", "nevernamed.inscryption.sigils_Instant Effect" ],
+  "pixelTexture": "druidSurv_DartPixel.png",
+  "appearanceBehavior": [ "nevernamed.inscryption.sigils_InstantEffectBackground" ]
+}

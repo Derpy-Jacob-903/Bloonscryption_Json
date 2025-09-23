@@ -1,0 +1,22 @@
+{
+  "name": "druidSurv_Bloon_Bfb",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "BFB",
+  "description": "That's a Big Freakin' Bloon!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 14,
+  "bloodCost": 1,
+  "bonesCost": 7,
+  "tribes": [ "druidSurv_LargeBloon" ],
+  "abilities": ["druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Sweeping Strike Left" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_Bloon_PixelSprite.png",
+  "texture": "druidSurv_BFB.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "4"
+  }
+}

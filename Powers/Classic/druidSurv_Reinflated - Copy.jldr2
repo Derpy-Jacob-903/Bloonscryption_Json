@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_Expert Negotiator3",
+  "modPrefix": "druidSurv",
+  "displayedName": "Expert Negotiator",
+  "description": "Every Bot has a price.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Tech",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 6,
+  "tribes": [ "druidSurv_Power" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Hook Line and Sinker", "nevernamed.inscryption.sigils_Instant Effect" ],
+  "pixelTexture": "druidSurv_DartPixel.png",
+  "appearanceBehavior": [ "nevernamed.inscryption.sigils_InstantEffectBackground" ]
+}

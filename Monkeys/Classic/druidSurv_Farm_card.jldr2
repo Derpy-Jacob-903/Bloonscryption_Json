@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_Farm",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Farm",
+  "description": "The best investment any Monkey can make!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "boneCost": 4,
+  "tribes": [ "druidSurv_Support" ],
+  "abilities": [ "BoneDigger", "BoneDigger", "nevernamed.inscryption.sigils_Abstain" ],
+  "texture": "druidSurv_Xbow.png",
+  "extensionProperties": {
+  "BannedFromCampfireDamage": "true"
+},
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

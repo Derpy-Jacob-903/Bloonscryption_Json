@@ -1,0 +1,19 @@
+{
+  "name": "_Bloon_DoubleRed",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Double Red",
+  "description": "In the Red corner...!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "bonesCost": 2,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "DoubleStrike" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_Red.png",
+  "pixelTexture": "druidSurv_Bloon_PixelSprite.png"
+}

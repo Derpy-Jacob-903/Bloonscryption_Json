@@ -1,0 +1,22 @@
+{
+  "name": "druidSurv_Bloon_Weak",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Weakening Gas Bloon",
+  "description": "Patch has this one noted down as \"most unnatural.\"",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 9,
+  "bloodCost": 1,
+  "bonesCost": 7,
+  "tribes": [ "druidSurv_LargeBloon" ],
+  "abilities": ["druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Gooey" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",
+  "texture": "druidSurv_WeakGas.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "druidSurv_Bloon_Green",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Green Bloon",
+  "description": "The Bloons are always greener on the other side.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 2,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "evolveIntoName": "druidSurv_Bloon_NestedYellow",
+  "pixelTexture": "druidSurv_BloonGreen_PixelSprite.png",
+  "texture": "druidSurv_Green.png"
+}

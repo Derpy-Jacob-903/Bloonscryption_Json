@@ -1,0 +1,31 @@
+{
+  "decks": [
+    {
+      "name": "Monkey Starter",
+      "cards": [
+        "druidSurv_Classic_Dart",
+        "druidSurv_Classic_Tack",
+        "druidSurv_Classic_Sniper"
+      ],
+      "iconTexture": "starter_darts.png"
+    },
+    {
+      "name": "Bloon Storm",
+      "cards": [
+	    "druidSurv_Classic_Bloon_DoubleRed",
+        "druidSurv_Classic_Bloon_NestedGreen",
+        "druidSurv_Classic_Bloon_Yellow"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "SunNBones",
+      "cards": [
+        "druidSurv_Classic_SunTemple",
+        "Gravedigger",
+        "Gravedigger"
+      ],
+      "iconTexture": "starter_SunNBones.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "druidSurv_Bloon_Shield",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Shield Spore Bloon",
+  "description": "C'mon, hit it. You know you want to.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "bonesCost": 4,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": ["druidSurv.sigils_Delayed Attack", "LatchDeathShield" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonBlue_PixelSprite.png",
+  "texture": "druidSurv_Shield.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "3"
+  }
+}

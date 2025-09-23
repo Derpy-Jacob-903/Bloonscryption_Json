@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_TDruid",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Thunder Druid",
+  "description": "ToDo",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [ "druidSurv_Magic" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Wriggle", "nevernamed.inscryption.sigils_Wriggle", "nevernamed.inscryption.sigils_Docile" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_HoTDruid.png"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "_Bloon_Rad",
+  "modPrefix": "druidSurv_Classic2",
+  "displayedName": "Rad Bloon",
+  "description": "[c:bSG]Party on, radical Bloon dude![c:]",
+  "metaCategories": ["ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable"],
+  "cardComplexity": "Vanilla",
+  "temple": "Tech",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "ConduitEnergy" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonUndead_PixelSprite.png",
+  "texture": "druidSurv_Undead.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "3"
+  }
+}

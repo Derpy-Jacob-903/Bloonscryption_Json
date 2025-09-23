@@ -1,0 +1,46 @@
+{
+  "tribes": [
+    {
+      "name": "Primary",
+      "guid": "druidSurv",
+      "tribeIcon": "tribeicon_primary.png",
+      "appearInTribeChoices": true
+    },
+    {
+      "name": "Military",
+      "guid": "druidSurv",
+      "tribeIcon": "tribeicon_Military.png",
+      "appearInTribeChoices": true
+    },
+    {
+      "name": "Magic",
+      "guid": "druidSurv",
+      "tribeIcon": "tribeicon_Magic.png",
+      "appearInTribeChoices": true
+    },
+    {
+      "name": "Support",
+      "guid": "druidSurv",
+      "tribeIcon": "tribeicon_Support.png",
+      "appearInTribeChoices": true
+    },
+    {
+      "name": "SmallBloon",
+      "guid": "druidSurv",
+      "tribeIcon": "tribeicon_SmallBloon.png",
+      "appearInTribeChoices": false
+    },
+    {
+      "name": "LargeBloon",
+      "guid": "druidSurv",
+      "tribeIcon": "tribeicon_LargeBloon.png",
+      "appearInTribeChoices": false
+    },
+    {
+      "name": "Power",
+      "guid": "druidSurv",
+      "tribeIcon": "tribeicon_Power.png",
+      "appearInTribeChoices": false
+    }
+  ]
+}

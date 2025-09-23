@@ -1,0 +1,20 @@
+{
+  "name": "druidSurv_Bloon_Yellow",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Yellow Bloon",
+  "description": "Well that's one way to slow traffic...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 0,
+  "bonesCost": 3,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "evolveIntoName": "druidSurv_Bloon_NestedYellow",
+  "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",
+  "texture": "druidSurv_Yellow.png"
+}

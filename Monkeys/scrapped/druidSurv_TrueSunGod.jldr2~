@@ -1,0 +1,21 @@
+{
+  "name": "druidSurv_TSG",
+  "modPrefix": "druidSurv",
+  "displayedName": "TRUE Sun God",
+  "description": "Tremble before the AWESOME power of the TRUE Sun God!!",
+  "metaCategories": [ "GBCPlayable"],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 40,
+  "bloodCost": 4,
+  "bonesCost": 12,
+  "tribes": [ "druidSurv_Magic" ],
+  "abilities": [ "AllStrike", "nevernamed.inscryption.sigils_Giant", "nevernamed.inscryption.sigils_Sanguine" ], 
+  "traits": ["DeathcardCreationNonOption"],
+  "defaultEvolutionName": "Truer Sun God",
+  "extensionProperties": {
+    "BannedFromCampfire": "Yes",
+    "BannedSigilTransferVictim": "Yes"
+  }
+}

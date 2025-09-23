@@ -1,0 +1,15 @@
+{
+  "name": "IGCC_Dart",
+  "modPrefix": "IGCC",
+  "displayedName": "Dart",
+  "description": "ToDo",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Immaterial" ],
+  "altTexture": "druidSurv_Dart.png",
+  "texture": "druidSurv_Dart.png"
+}

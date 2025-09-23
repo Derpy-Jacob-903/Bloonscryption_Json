@@ -1,0 +1,23 @@
+{
+  "name": "druidSurv_SunTemple",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Sun Temple",
+  "description": "Maybe don't let your beasts know you're about to play this.",
+  "metaCategories": [ "Rare", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 10,
+  "bloodCost": 3,
+  "bonesCost": 8,
+  "onePerDeck": true,
+  "tribes": [ "druidSurv_Magic" ],
+  "abilities": [ "AllStrike", "nevernamed.inscryption.sigils_Giant", "nevernamed.inscryption.sigils_Sanguine" ], 
+  "traits": ["DeathcardCreationNonOption"],
+  "defaultEvolutionName": "True Sun God",
+  "extensionProperties": {
+    "BannedFromCampfire": "Yes",
+    "BannedSigilTransferVictim": "Yes"
+  },
+  "appearanceBehavior": ["RareCardBackground", "RareCardColors"]
+}

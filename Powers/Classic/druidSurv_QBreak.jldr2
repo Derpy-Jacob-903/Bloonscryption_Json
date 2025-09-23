@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_Quick Break3",
+  "modPrefix": "druidSurv",
+  "displayedName": "Quick Break",
+  "description": "Ahh, that's the stuff.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Tech",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 6,
+  "tribes": [ "druidSurv_Power" ],
+  "abilities": [ "druidSurv.sigils_Druidic Healing", "DrawCopy", "nevernamed.inscryption.sigils_Instant Effect" ],
+  "pixelTexture": "druidSurv_DartPixel.png",
+  "appearanceBehavior": [ "nevernamed.inscryption.sigils_InstantEffectBackground" ]
+}

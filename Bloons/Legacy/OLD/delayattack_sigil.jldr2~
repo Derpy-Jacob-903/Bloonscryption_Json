@@ -1,0 +1,64 @@
+{
+  "name": "Delayed Attack",
+  "GUID": "druidSurv",
+  "description": "A card bearing this sigil can't attack on their first turn on the board",
+  "metaCategories": [
+    "Part1Rulebook",
+    "Part1Modular"
+  ],
+  "texture": "ability_delayattack_1.png",
+  "pixelTexture": "pixelability_delayattack.png",
+  "powerLevel": -1,
+  "priority": 0,
+  "opponentUsable": false,
+  "canStack": false,
+  "isSpecialAbility": false,
+  "abilityBehaviour": [
+    {
+      "trigger": {
+        "triggerType": "OnResolveOnBoard"
+      },
+      
+      "buffCards": [
+        {
+        "addAbilities": 
+            [{
+              "name": "nevernamed.inscryption.sigils_Abstain"
+            }]
+        }
+      ]
+      },
+    {
+      "trigger": {
+        "triggerType": "OnPlayerStartOfTurn"
+      },
+      
+      "buffCards": [
+        {
+        "runOnCondition": "(([BaseCard.OpponentCard] = false))",
+        "removeAbilities": 
+            [{
+              "name": "nevernamed.inscryption.sigils_Abstain",
+              "all": true
+            }]
+        }
+      ]
+      },
+    {
+      "trigger": {
+        "triggerType": "OnOpponentStartOfTurn"
+      },
+      
+      "buffCards": [
+        {
+        "runOnCondition": "(([BaseCard.OpponentCard] = true))",
+        "removeAbilities": 
+            [{
+              "name": "nevernamed.inscryption.sigils_Abstain",
+              "all": true
+            }]
+        }
+      ]
+    }
+  ]
+}

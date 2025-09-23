@@ -1,0 +1,22 @@
+{
+  "name": "_Bloon_Toxic",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Toxic Bloon",
+  "description": "The taste of a poison paradise.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 2,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Caustic" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonGreen_PixelSprite.png",
+  "texture": "druidSurv_Toxic.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
+}

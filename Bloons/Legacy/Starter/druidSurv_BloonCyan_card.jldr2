@@ -1,0 +1,24 @@
+{
+  "name": "druidSurv_Bloon_Cyan",
+  "modPrefix": "druidSurv_Bloon",
+  "displayedName": "Cyan Bloon",
+  "description": "The classic nemesis of all Monkey-kind",
+  "metaCategories": [ "zorro.inscryption.infiniscryption.sidedecks.SideDeck" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Tech",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "energyCost": 1,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_Cyan.png",
+  "pixelTexture": "druidSurv_BloonTech_PixelSprite.png",
+  "extensionProperties": {
+  "CSDIsSideDeck": "true",
+  "CSDSideDeckType": "Basic",
+  "CSDIsAqua": "false",
+  "CSDChallengePoints": "-5"
+	}
+}

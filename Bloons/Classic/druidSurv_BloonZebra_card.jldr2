@@ -1,0 +1,22 @@
+{
+  "name": "druidSurv_Bloon_Zebra",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Zebra Bloon",
+  "description": "Full of cards and covered in stripes!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 7,
+  "bloodCost": 2,
+  "bonesCost": 3,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": ["nevernamed.inscryption.sigils_Death Snatch", "nevernamed.inscryption.sigils_Draw", "druidSurv.sigils_Delayed Attack" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonWhite_PixelSprite.png",
+  "texture": "druidSurv_Zebra.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
+}

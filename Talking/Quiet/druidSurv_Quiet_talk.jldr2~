@@ -1,0 +1,253 @@
+{
+  "cardName": "druidSurv_Quiet",
+  "faceSprite": "druidSurv_thequiet.png",
+  "eyeSprites": {
+    "open": "druidSurv_thequiet_eyes.png",
+    "closed": "druidSurv_thequiet_closed.png"
+  },
+  "mouthSprites": {
+    "open": "r_neutral_mouth_open.png",
+    "closed": "r_neutral_mouth_closed.png"
+  },
+  "emissionSprite": "druidSurv_thequiet_eyes.png",
+  "faceInfo": {
+    "blinkRate": 1.5,
+    "voiceId": "female1_voice",
+    "voiceSoundPitch": 2
+  },
+  "emotions": [
+    {
+      "emotion": "Anger",
+      "eyeSprites": {
+        "open": "druidSurv_thequiet_mad.png",
+        "closed": "druidSurv_thequiet_closed.png"
+      },
+      "mouthSprites": {
+        "open": "r_neutral_mouth_open.png",
+        "closed": "r_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "druidSurv_thequiet_mad.png"
+    },
+    {
+      "emotion": "Quiet",
+      "eyeSprites": {
+        "open": "druidSurv_thequiet_sad.png",
+        "closed": "druidSurv_thequiet_closed.png"
+      },
+      "mouthSprites": {
+        "open": "r_neutral_mouth_open.png",
+        "closed": "r_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "r_quiet_emission.png"
+    },
+    {
+      "emotion": "Laughter",
+      "eyeSprites": {
+        "open": "druidSurv_thequiet_happly.png",
+        "closed": "druidSurv_thequiet_closed.png"
+      },
+      "mouthSprites": {
+        "open": "r_neutral_mouth_open.png",
+        "closed": "r_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "r_laughter_emission.png"
+    },
+    {
+      "emotion": "Surprise",
+      "eyeSprites": {
+        "open": "druidSurv_thequiet_happly.png",
+        "closed": "druidSurv_thequiet_closed.png"
+      },
+      "mouthSprites": {
+        "open": "druidSurv_quiet_suprise.png",
+        "closed": "druidSurv_quiet_suprise.png"
+      },
+      "emissionSprite": "druidSurv_thequiet_happly.png"
+    },
+    {
+      "emotion": "Curious",
+      "eyeSprites": {
+        "open": "druidSurv_thequiet_eyes.png",
+        "closed": "druidSurv_thequiet_closed.png"
+      },
+      "mouthSprites": {
+        "open": "r_neutral_mouth_open.png",
+        "closed": "r_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "r_curious_emission.png"
+    }
+  ],
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "You picked me?",
+        "...Okay. I’ll do my best."
+      ],
+      "repeatLines": [
+        ["Back again."],
+        ["I’ll try not to mess up."],
+        ["I can fight."],
+        ["Let’s get this over with."],
+        ["Quiet doesn’t mean weak."]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Alright.",
+        "Just tell me what to hit."
+      ],
+      "repeatLines": [
+        ["Let’s make it quick."],
+        ["I’m ready."],
+        ["Right behind you."],
+        ["No backing down now."]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "He digs for gold, not meaning.",
+        "Bet he never found either."
+      ],
+      "repeatLines": [
+        ["He smells like ash."],
+        ["He doesn’t blink."],
+        ["I don’t like this place."],
+        ["Watch the floor. It shifts."]
+      ]
+    },
+    {
+      "eventName": "AnglerBoss",
+      "mainLines": [
+        "Ugh. The smell...",
+        "Do we *have* to?"
+      ],
+      "repeatLines": [
+        ["Don’t fall in."],
+        ["Too many teeth."],
+        ["I hate fish."],
+        ["We can win. Just—don’t panic."]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "This one’s tricky.",
+        "Everything here wants your skin."
+      ],
+      "repeatLines": [
+        ["Traps. Everywhere."],
+        ["Don’t step where I stepped."],
+        ["I hate this part."],
+        ["I hear creaking... and breathing."]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+        "That’s... Leshy?",
+        "I thought he’d be taller.",
+        "...I’ll cut him down anyway."
+      ],
+      "repeatLines": [
+        ["Forest’s too quiet."],
+        ["Don’t listen to him."],
+        ["Trees whisper back sometimes."],
+        ["I’m not scared of you."]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "Tch—got careless.",
+        "I’m fine. Just... go."
+      ],
+      "repeatLines": [
+        ["Oof!"],
+        ["I’m okay!"],
+        ["I’m still up!"],
+        ["I’ve had worse."]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "Pick me if you want.",
+        "I won’t let you down."
+      ],
+      "repeatLines": [
+        ["I can take it."],
+        ["Sure."],
+        ["If not me, then who?"],
+        ["...Let’s do this."]
+      ]
+    },
+    {
+      "eventName": "RoyalBoss",
+      "mainLines": [
+        "Is that a pirate?",
+        "...Wow. He’s really into it."
+      ],
+      "repeatLines": [
+        ["Skulls. Great."],
+        ["He’s got a flag and everything."],
+        ["I guess we fight skeletons now."],
+        ["What kind of curse *is* this?"]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Wait—me?",
+        "That’s a joke, right?"
+      ],
+      "repeatLines": [
+        ["I’d rather not."],
+        ["Pick someone else!"],
+        ["...Seriously?"],
+        ["I didn’t sign up for this part."]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "...Fine.",
+        "Just make it worth it."
+      ],
+      "repeatLines": [
+        ["Don’t forget me."],
+        ["Hope that helped."],
+        ["Quiet... until the end."],
+        ["I trusted you."]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "A trial? Alright.",
+        "Guess I’ll prove something."
+      ],
+      "repeatLines": [
+        ["Bring it on."],
+        ["Sure. What could go wrong?"],
+        ["Not my first trial."],
+        ["I fight better under pressure."]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "...Really?",
+        "Whatever. Your call."
+      ],
+      "repeatLines": [
+        ["Fine. I’ll leave."],
+        ["Guess I wasn’t good enough."],
+        ["Quiet again, huh?"],
+        ["...Figures."]
+      ]
+    }
+  ]
+}

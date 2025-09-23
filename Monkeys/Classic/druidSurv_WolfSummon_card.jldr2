@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_Wolf",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Wolf",
+  "description": "Our old friend, back once more.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bonesCost": 5,
+  "tribes": [ "druidSurv_Primary", "druidSurv_Support", "Canine" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Eye For Battle", "nevernamed.inscryption.sigils_Immaterial" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_Dart.png",
+  "extensionProperties": {
+    "AvailableInBottle": "true",
+  }
+}

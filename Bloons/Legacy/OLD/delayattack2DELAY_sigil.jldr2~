@@ -1,0 +1,74 @@
+{
+  "name": "Delayed Attack 2",
+  "GUID": "druidSurv",
+  "description": "A card bearing this sigil can't attack on their first two turns on the board",
+  "metaCategories": [
+    "Part1Rulebook",
+    "Part1Modular"
+  ],
+  "texture": "ability_delayattack_2.png",
+  "pixelTexture": "pixelability_delayattack.png",
+  "powerLevel": -2,
+  "priority": 0,
+  "opponentUsable": false,
+  "canStack": false,
+  "isSpecialAbility": false,
+  "abilityBehaviour": [
+    {
+      "trigger": {
+        "triggerType": "OnResolveOnBoard"
+      },
+      
+      "buffCards": [
+        {
+        "addAbilities": 
+            [{
+              "name": "nevernamed.inscryption.sigils_Abstain"
+            }]
+        }
+      ]
+      },
+    {
+      "trigger": {
+        "triggerType": "OnPlayerStartOfTurn"
+      },
+      
+      "buffCards": [
+        {
+        "runOnCondition": "(([BaseCard.OpponentCard] = false))",
+        "removeAbilities": 
+            [{
+              "name": "druidSurv_Delayed Attack 2",
+              "all": true
+            }]
+        "runOnCondition": "(([BaseCard.OpponentCard] = false))",
+        "addAbilities": 
+            [{
+              "name": "druidSurv_Delayed Attack"
+            }]
+        }
+      ]
+      },
+    {
+      "trigger": {
+        "triggerType": "OnOpponentStartOfTurn"
+      },
+      
+      "buffCards": [
+        {
+        "runOnCondition": "(([BaseCard.OpponentCard] = true))",
+        "removeAbilities": 
+            [{
+              "name": "druidSurv_Delayed Attack 2",
+              "all": true
+            }]
+        "runOnCondition": "(([BaseCard.OpponentCard] = false))",
+        "addAbilities": 
+            [{
+              "name": "druidSurv_Delayed Attack"
+            }]
+        }
+      ]
+    }
+  ]
+}

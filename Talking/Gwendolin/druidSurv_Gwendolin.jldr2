@@ -1,0 +1,24 @@
+{
+  "name": "druidSurv_Gwendolin",
+  "modPrefix": "druidSurv",
+  "displayedName": "Gwendolin",
+  "description": "She's fired up and ready to go!",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [ ],
+  "traits": [ ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Ignition", "nevernamed.inscryption.sigils_Fire Resistant", "nevernamed.inscryption.sigils_Wimpy"
+  ],
+  "specialAbilities": [ "TalkingCardChooser" ],
+  "onePerDeck": true,
+  "flipPortraitForStrafe": false,
+  "tailName": "Tail_Furry",
+  "pixelTexture": "druidSurv_Grover_PixelSprite.png"
+}

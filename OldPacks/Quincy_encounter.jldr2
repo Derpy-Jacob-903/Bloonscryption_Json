@@ -1,0 +1,94 @@
+{
+  "name": "DruidSurv_Quincy",
+  "minDifficulty": 0,
+  "maxDifficulty": 999,
+  "regions": [
+    "Forest",
+    "Wetlands",
+    "Alpine"
+  ],
+  "dominantTribes": [
+    "druidSurv.SmallBloon",
+    "druidSurv.Primary"
+  ],
+  "randomReplaceChance":25,
+  "randomReplacementCards": [ "druidSurv_Bloon_Green", "druidSurv_Mortar", "druidSurv_tack", "druidSurv_Boomerang" ],
+  "turns": [
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Red"
+        },
+        {
+          "card": "druidSurv_Bloon_Red"
+        },
+        {
+          "card": "druidSurv_Bloon_Red"
+        },
+        {
+          "card": "druidSurv_Dart"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_tack"
+        },
+        {
+          "card": "druidSurv_Bloon_Stun"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Green"
+        },
+        {
+          "card": "druidSurv_Bloon_Green"
+        },
+        {
+          "card": "druidSurv_Bloon_Stun"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Mortar"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Boomerang"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        },
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        },
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        },
+        {
+          "card": "druidSurv_Bloon_Brown"
+        }
+      ]
+    }
+  ]
+}

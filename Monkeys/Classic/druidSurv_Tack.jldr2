@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_tack",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Tack Shooter",
+  "description": "You'll never get past it's defenses.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Return Strike" ],
+  "evolveIntoName": "druidSurv_tack2",
+  "altTexture": "druidSurv_tack.png",
+  "texture": "druidSurv_tack.png"
+}

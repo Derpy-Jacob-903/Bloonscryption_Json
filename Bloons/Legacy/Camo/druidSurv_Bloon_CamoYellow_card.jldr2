@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_Bloon_CamoYellow",
+  "modPrefix": "druidSurv_Bloon2",
+  "displayedName": "Camo Yellow",
+  "description": "Well that's one way to slow traffic...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 0,
+  "bonesCost": 3,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "Flying" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",
+  "texture": "druidSurv_Yellow.png"
+}

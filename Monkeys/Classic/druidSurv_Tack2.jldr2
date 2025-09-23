@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_tack2",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Tack Sprayer",
+  "description": "You get a tack! And you get a tack! And YOU get a tack!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Return Strike", "DoubleStrike" ],
+  "altTexture": "druidSurv_tack.png",
+  "texture": "druidSurv_tack.png"
+}

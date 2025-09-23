@@ -1,0 +1,20 @@
+{
+  "name": "druidSurv_Super",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Super Monkey",
+  "description": "Oh you're from the Fan Club? Of course you are.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "bloodCost": 3,
+  "bonesCost": 0,
+  "tribes": [ "druidSurv_Magic" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Triple Strike", "nevernamed.inscryption.sigils_Docile" ], 
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_HoTDruid.png",
+  "extensionProperties": {
+  "CustomDocileCounter": 3
+  }
+}

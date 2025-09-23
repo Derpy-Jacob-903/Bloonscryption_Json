@@ -1,0 +1,22 @@
+{
+  "name": "druidSurv_Bloon_Brown",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Ceramic Bloon",
+  "description": "Forged in fire, hardened by battle.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 10,
+  "bloodCost": 0,
+  "bonesCost": 5,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "Reach"],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonBrown_PixelSprite.png",
+  "texture": "druidSurv_Brown.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
+}

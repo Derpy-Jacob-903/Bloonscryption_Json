@@ -1,0 +1,24 @@
+{
+  "name": "druidSurv_Bloon_SwarmOrange",
+  "modPrefix": "druidSurv_Bloon_Swarm",
+  "displayedName": "Swarm Orange",
+  "description": "All Swarms start somewhere. Or end somewhere.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack","druidSurv.sigils_Swarm" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_Orange.png",
+  "pixelTexture": "druidSurv_BloonOrange_PixelSprite.png",
+  "extensionProperties": {
+  "CSDIsSideDeck": "true",
+  "CSDSideDeckType": "SetCount",
+  "CSDNumCards": "3",
+  "CSDIsAqua": "false",
+  "CSDChallengePoints": "-15"
+}
+}

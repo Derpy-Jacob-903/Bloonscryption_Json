@@ -1,0 +1,24 @@
+{
+  "name": "_Bloon_Eternal",
+  "modPrefix": "druidSurv_Classic2",
+  "displayedName": "The Eternal",
+  "description": "The Eternal Bloon. What pops it only makes it stronger.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 2,
+  "onePerDeck": true,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "DrawCopyOnDeath" ],
+  "pixelTexture": "druidSurv_BloonEternal_PixelSprite.png",
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage", "druidSurv.sigils_EternalBloonTrait"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_BloonEternal_PixelSprite.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  },
+  "appearanceBehavior": ["RareCardBackground", "RareCardColors"]
+}

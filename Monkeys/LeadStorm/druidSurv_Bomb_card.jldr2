@@ -1,0 +1,20 @@
+{
+  "name": "druidSurv_Bomb",
+  "modPrefix": "druidSurv",
+  "displayedName": "Bomb",
+  "description": "[c:r]Data not found.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "druidSurv.sigils_Armor-Piercing", "nevernamed.inscryption.sigils_Docile" ],
+  "defaultEvolutionName": "Bigger Bomb",
+  "texture": "druidSurv_Dart.png",
+  "extensionProperties": {
+    "AvailableInBottle": "true",
+  },
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

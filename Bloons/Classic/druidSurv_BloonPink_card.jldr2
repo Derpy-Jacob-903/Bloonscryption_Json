@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_Bloon_Pink",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Pink Bloon",
+  "description": "May have once got past Quincy's bow.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 5,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "Brittle" ],
+  "pixelTexture": "druidSurv_BloonPink_PixelSprite.png",
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "texture": "druidSurv_Pink.png"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "druidSurv_BurnyStuff",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "BurnyStuff",
+  "description": "SORRY, YOU'LL HAVE TO REPEAT YOURSELF. YOU WANT ME TO SHOOT WHAT?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [ "druidSurv_Military" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Unfocused Strike", "nevernamed.inscryption.sigils_Ignition" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_Dart.png",
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "druidSurv_Bloon_Blue",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Blue Bloon",
+  "description": "You hardly see them against the clear midday sky.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "bonesCost": 1,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "evolveIntoName": "druidSurv_Bloon_NestedYellow",
+  "pixelTexture": "druidSurv_BloonBlue_PixelSprite.png",
+  "texture": "druidSurv_Blue.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
+}

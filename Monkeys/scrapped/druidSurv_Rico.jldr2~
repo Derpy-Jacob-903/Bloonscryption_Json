@@ -1,0 +1,15 @@
+{
+  "name": "druidSurv_Rico",
+  "modPrefix": "druidSurv",
+  "displayedName": "Dart",
+  "description": "ToDo",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "Rare" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "AllStrike" ],
+  "altTexture": "druidSurv_Dart.png",
+  "texture": "druidSurv_Dart.png"
+}

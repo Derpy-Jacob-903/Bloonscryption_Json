@@ -1,0 +1,20 @@
+{
+  "name": "druidSurv_Bloon_Purple",
+  "modPrefix": "druidSurv_Bloon",
+  "displayedName": "Purple Bloon",
+  "description": "[c:bR]Is this your Bloon, Kaycee?[c:]",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 2,
+  "onePerDeck": true,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "druidSurv.sigils_Reinflate" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonPurple_PixelSprite.png",
+  "texture": "druidSurv_Purple.png"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_Triple_Dart",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Triple Dart",
+  "description": "todo",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "TriStrike", "nevernamed.inscryption.sigils_Immaterial" ],
+  "emissionTexture": "r_neutral_emission.png",
+  "texture": "druidSurv_TriDart.png"
+}

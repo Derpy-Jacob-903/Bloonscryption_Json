@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_Supply Drop",
+  "modPrefix": "druidSurv_tech",
+  "displayedName": "Supply Drop",
+  "description": "Oh, you have got to get some more of these!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Tech",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 5,
+  "tribes": [ "druidSurv_Power" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Draw", "nevernamed.inscryption.sigils_Instant Effect" ],
+  "pixelTexture": "druidSurv_DartPixel.png",
+  "appearanceBehavior": [ "nevernamed.inscryption.sigils_InstantEffectBackground" ],
+  "extensionProperties": {
+    "DrawSigilNumberToDraw": "3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "druidSurv_Sniper",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Sniper",
+  "description": "ToDo",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [ "druidSurv_Military" ],
+  "abilities": [ "Sniper", "nevernamed.inscryption.sigils_Docile"],
+  "texture": "druidSurv_Xbow.png"
+}

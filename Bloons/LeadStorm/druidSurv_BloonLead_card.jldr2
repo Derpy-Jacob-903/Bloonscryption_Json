@@ -1,0 +1,22 @@
+{
+  "name": "druidSurv_Bloon_Lead",
+  "modPrefix": "druidSurv_Bloon",
+  "displayedName": "Lead Bloon",
+  "description": "Hm. I'm not used to announcing this one.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 4,
+  "bloodCost": 0,
+  "bonesCost": 3,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Sturdy" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonLead_PixelSprite.png",
+  "texture": "druidSurv_Lead.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
+}

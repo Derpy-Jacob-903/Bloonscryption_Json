@@ -1,0 +1,75 @@
+{
+  "name": "DruidSurv_Bloons",
+  "minDifficulty": 0,
+  "maxDifficulty": 999,
+  "regions": [
+    "Forest",
+    "Wetlands",
+    "Alpine"
+  ],
+  "dominantTribes": [
+    "druidSurv.SmallBloon"
+  ],
+  "turns": [
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Red"
+        },
+        {
+          "card": "druidSurv_Bloon_Red"
+        },
+        {
+          "card": "druidSurv_Bloon_Red"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Yellow"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Blue"
+        },
+        {
+          "card": "druidSurv_Bloon_Blue"
+        },
+        {
+          "card": "druidSurv_Bloon_Green"
+        },
+        {
+          "card": "druidSurv_Bloon_Green"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Brown"
+        },
+        {
+          "card": "druidSurv_Bloon_Brown"
+        }
+      ]
+    },
+    {
+      "cardInfo": [
+      ]
+    },
+    {
+      "cardInfo": [
+        {
+          "card": "druidSurv_Bloon_Pink"
+        },
+        {
+          "card": "druidSurv_Bloon_Pink"
+        }
+      ]
+    }
+  ]
+}

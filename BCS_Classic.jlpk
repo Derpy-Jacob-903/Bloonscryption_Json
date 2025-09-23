@@ -1,0 +1,7 @@
+{
+  "Title": "Bloonscryption (Classic, Launch)",
+  "Description": "Adds Monkeys and Bloons from the "Classic" set, which where present at launch",
+  "ModPrefix": "druidSurv_Classic",
+  "PackArt": "ClassicPack.png",
+  "ValidFor": ["LeshyPack"]
+}

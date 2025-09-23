@@ -1,0 +1,25 @@
+{
+  "name": "druidSurv_Amelia",
+  "modPrefix": "druidSurv",
+  "displayedName": "Amelia",
+  "description": "The magician unmasked. Tricks and blooms from beyond the grave.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "tribes": [  ],
+  "traits": [  ],
+  "abilities": [
+    "DrawCopyOnDeath", "LatchDeathShield"
+  ],
+  "specialAbilities": ["druidSurv.sigils_EternalBloonTrait", "TalkingCardChooser" ],
+  "onePerDeck": true,
+  "flipPortraitForStrafe": false,
+  "defaultEvolutionName": "Amazing Amelia",
+  "tailName": "Tail_Furry",
+  "pixelTexture": "pixelportrait_wabbit.png"
+}

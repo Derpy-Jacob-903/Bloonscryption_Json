@@ -1,0 +1,17 @@
+{
+  "name": "druidSurv_Druid",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Druid",
+  "description": "ToDo",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [ "druidSurv_Magic" ],
+  "abilities": [ "druidSurv.sigils_Druidic Healing", "nevernamed.inscryption.sigils_Docile" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_HoTDruid.png",
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "druidSurv_Bloon_Olive",
+  "modPrefix": "druidSurv_Bloon",
+  "displayedName": "Camo Bloon",
+  "description": "Full of cards and covered in stripes!",
+  "metaCategories": [ "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "bonesCost": 0,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": ["druidSurv.sigils_Delayed Attack", "Flying" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonGreen_PixelSprite.png",
+  "texture": "druidSurv_Olive.png",
+  "extensionProperties": {
+	"CSDIsSideDeck": "true",
+	"CSDSideDeckType": "Basic",
+	"CSDIsAqua": "false",
+	"CSDChallengePoints": "-5",
+    "CustomDelayedCounter": "2"
+  }
+}

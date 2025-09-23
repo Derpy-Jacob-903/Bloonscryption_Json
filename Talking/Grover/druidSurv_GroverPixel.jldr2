@@ -1,0 +1,24 @@
+{
+  "name": "druidSurv_Grover_Act2",
+  "modPrefix": "druidSurv",
+  "displayedName": "Grover",
+  "description": "A druid of foreign lands. Survived storms not meant for this world.",
+  "metaCategories": [
+    "GBCPack", "GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [ "Hooved", "druidSurv_Magic" ],
+  "traits": [ "Goat" ],
+  "abilities": [
+    "TriStrike", "nevernamed.inscryption.sigils_Docile"
+  ],
+  "specialAbilities": [  ],
+  "onePerDeck": true,
+  "flipPortraitForStrafe": false,
+  "tailName": "Tail_Furry",
+  "pixelTexture": "druidSurv_Grover_PixelSprite.png"
+}

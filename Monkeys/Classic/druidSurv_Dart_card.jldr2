@@ -1,0 +1,19 @@
+{
+  "name": "druidSurv_Dart",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Dart",
+  "description": "Our old friend, back once more.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Eye For Battle" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_Dart.png",
+  "extensionProperties": {
+    "AvailableInBottle": "true",
+  },
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

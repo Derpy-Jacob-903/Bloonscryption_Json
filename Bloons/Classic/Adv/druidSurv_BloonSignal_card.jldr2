@@ -1,0 +1,22 @@
+{
+  "name": "_Bloon_Signal",
+  "modPrefix": "druidSurv_Classic2",
+  "displayedName": "Signal Bloon",
+  "description": "Something wicked this way comes.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "bonesCost": 3,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "DrawVesselOnHit", "DeathShield" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonBlue_PixelSprite.png",
+  "texture": "druidSurv_Blue.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
+}

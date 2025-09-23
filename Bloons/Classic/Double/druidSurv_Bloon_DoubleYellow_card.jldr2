@@ -1,0 +1,19 @@
+{
+  "name": "_Bloon_DoubleYellow",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Double Yellow",
+  "description": "Just as fast, twice as punchy.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 4,
+  "bloodCost": 0,
+  "bonesCost": 5,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "DoubleStrike" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",
+  "texture": "druidSurv_Yellow.png"
+}

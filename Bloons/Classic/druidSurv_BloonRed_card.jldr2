@@ -1,0 +1,20 @@
+{
+  "name": "druidSurv_Bloon_Red",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Red Bloon",
+  "description": "The classic nemesis of all Monkey-kind",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "bonesCost": 0,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "evolveIntoName": "druidSurv_Bloon_NestedBlue",
+  "texture": "druidSurv_Red.png",
+  "pixelTexture": "druidSurv_Bloon_PixelSprite.png"
+}

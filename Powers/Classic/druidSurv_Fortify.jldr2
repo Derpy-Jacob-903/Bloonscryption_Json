@@ -1,0 +1,16 @@
+{
+  "name": "druidSurv_Fortify3",
+  "modPrefix": "druidSurv",
+  "displayedName": "Shrink",
+  "description": "Tiny strips of armor seem to work in most games.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Tech",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 2,
+  "tribes": [ "druidSurv_Power" ],
+  "abilities": [ "druidSurv.sigils_Fortify Latch", "nevernamed.inscryption.sigils_Instant Effect" ],
+  "pixelTexture": "druidSurv_DartPixel.png",
+  "appearanceBehavior": [ "nevernamed.inscryption.sigils_InstantEffectBackground" ]
+}
