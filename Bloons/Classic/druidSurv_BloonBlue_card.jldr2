@@ -1,8 +1,8 @@
 {
-  "name": "_Bloon_Blue",
+  "name": "Bloon_Blue",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Blue Bloon",
-  "description": "You hardly see them against the clear midday sky.",
+  "description": "Still basic, just bluer and stronger.",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",
@@ -14,7 +14,7 @@
   "abilities": [ "druidSurv.sigils_Delayed Attack" ],
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
   "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
-  "evolveIntoName": "druidSurv_Bloon_NestedYellow",
+  "evolveIntoName": "druidSurv_Classic_Bloon_Green",
   "pixelTexture": "druidSurv_BloonBlue_PixelSprite.png",
   "texture": "druidSurv_Blue.png",
   "extensionProperties": {

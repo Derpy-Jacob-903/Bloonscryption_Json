@@ -1,0 +1,17 @@
+{
+  "name": "HotBoomerang",
+  "modPrefix": "druidSurv_Outlier",
+  "displayedName": "Boomerang",
+  "description": "What goes around comes around.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Dexter Strike", "PermaDeath" ],
+  "texture": "druidSurv_Boomer.png",
+  "pixelTexture": "druidSurv_DartPixel.png",
+  "appearanceBehaviour": [ "DefaultEmission" ]
+}

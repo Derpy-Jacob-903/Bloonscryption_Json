@@ -1,8 +1,8 @@
 {
-  "name": "_DartTwin",
+  "name": "DartTwin",
   "modPrefix": "druidSurv_Classic2",
   "displayedName": "Dart Twin",
-  "description": "Our old friend, back once more.",
+  "description": "Twins together stronger.",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

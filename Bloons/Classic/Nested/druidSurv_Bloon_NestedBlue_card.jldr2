@@ -1,8 +1,8 @@
 {
-  "name": "_Bloon_NestedBlue",
+  "name": "Bloon_NestedBlue",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Nested Blue",
-  "description": "You hardly see them against the clear midday sky.",
+  "description": "Ah, so that's how it works!",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

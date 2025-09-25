@@ -1,7 +1,7 @@
 {
-  "name": "druidSurv_Bloon_Orange",
-  "modPrefix": "druidSurv_Bloon",
-  "displayedName": "Orange Bloon",
+  "name": "Bloon_Scarlet",
+  "modPrefix": "druidSurv_Outliers",
+  "displayedName": "Scarlet Bloon",
   "description": "The classic nemesis of all Monkey-kind",
   "metaCategories": [ "zorro.inscryption.infiniscryption.sidedecks.SideDeck" ],
   "cardComplexity": "Vanilla",
@@ -17,10 +17,10 @@
   "texture": "druidSurv_Orange.png",
   "pixelTexture": "druidSurv_BloonOrange_PixelSprite.png",
   "extensionProperties": {
-  "CSDIsSideDeck": "true",
-  "CSDSideDeckType": "Basic",
-  "CSDIsAqua": "false",
-  "CSDChallengePoints": "-5",
-  "AvailableInBottle": "true"
-}
+	"CSDIsSideDeck": "true",
+	"CSDSideDeckType": "Basic",
+	"CSDIsAqua": "false",
+	"CSDChallengePoints": "-10",
+	"AvailableInBottle": "true"
+	}
 }

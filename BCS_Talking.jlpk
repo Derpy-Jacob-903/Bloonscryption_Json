@@ -1,0 +1,7 @@
+{
+  "Title": "Bloonscryption (Talking Cards)",
+  "Description": "Adds Talking Cards.",
+  "ModPrefix": "druidSurv",
+  "PackArt": "TalkersPack.png",
+  "ValidFor": ["LeshyPack"]
+}

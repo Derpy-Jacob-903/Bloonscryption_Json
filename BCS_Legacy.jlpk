@@ -1,7 +1,7 @@
 {
-  "Title": "Bloonscryption (Legacy)",
-  "Description": "Adds Monkeys and Bloons from prere.",
-  "ModPrefix": "druidSurv_Legacy",
+  "Title": "Bloonscryption (Outlier)",
+  "Description": "Adds Monkeys and Bloons.",
+  "ModPrefix": "druidSurv_Bloon",
   "PackArt": "LegacyPack.png",
   "ValidFor": ["LeshyPack"]
 }

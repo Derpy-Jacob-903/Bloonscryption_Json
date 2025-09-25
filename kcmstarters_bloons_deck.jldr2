@@ -1,25 +1,70 @@
 {
   "decks": [
     {
-      "name": "Monkey Starter",
+      "name": "Druid Starter",
       "cards": [
-        "druidSurv_Classic_Dart",
-        "druidSurv_Classic_Tack",
-        "druidSurv_Classic_Sniper"
-      ],
-      "iconTexture": "starter_darts.png"
-    },
-    {
-      "name": "Bloon Storm",
-      "cards": [
-	    "druidSurv_Classic_Bloon_DoubleRed",
-        "druidSurv_Classic_Bloon_NestedGreen",
-        "druidSurv_Classic_Bloon_Yellow"
+	    "druidSurv_Grover",
+        "Raven",
+        "druidSurv_Classic_Bloon_Moab"
       ],
       "iconTexture": "starter_bloon.png"
     },
     {
-      "name": "SunNBones",
+      "name": "Quincy Starter",
+      "cards": [
+	    "Sniper",
+        "druidSurv_Classic_Triple_Dart",
+        "druidSurv_Outlier_HotBoomerang"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "Gwendolin Starter",
+      "cards": [
+	    "druidSurv_Classic_Tack2",
+        "druidSurv_Classic_Wizard",
+        "druidSurv_Outlier_HotBoomerang"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "Amelia Starter",
+      "cards": [
+	    "druidSurv_Amelia",
+        "druidSurv_Outlier_Bloon_Purple",
+        "druidSurv_Classic_Bloon_Golden"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "Obyn Starter",
+      "cards": [
+	    "druidSurv_Classic_WolfS",
+        "druidSurv_Classic_Druid",
+        "druidSurv_Classic_HoVDruid"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "Rad Bloon Starter",
+      "cards": [
+	    "druidSurv_Classic2_Bloon_Rad",
+        "druidSurv_LeadSet_Bloon_CleverGreen",
+        "GemsConduit"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "Striker Starter",
+      "cards": [
+	    "druidSurv_CamoSet_NinjaMonkey",
+        "druidSurv_Classic_Mortar",
+        "druidSurv_LeadSet_MoabMauler"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "Sun Temple Starter",
       "cards": [
         "druidSurv_Classic_SunTemple",
         "Gravedigger",

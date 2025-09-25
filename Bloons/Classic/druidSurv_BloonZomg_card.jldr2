@@ -1,7 +1,7 @@
 {
-  "name": "_Bloon_Zomg",
+  "name": "Bloon_Zomg",
   "modPrefix": "druidSurv_Classic",
-  "displayedName": "Zomg",
+  "displayedName": "ZOMG",
   "description": "Death from above!",
   "metaCategories": [ "Rare" ],
   "cardComplexity": "Vanilla",

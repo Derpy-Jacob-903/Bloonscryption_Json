@@ -1,6 +1,6 @@
 {
-  "name": "druidSurv_Bloon_SwarmOrange",
-  "modPrefix": "druidSurv_Bloon_Swarm",
+  "name": "Bloon_SwarmOrange",
+  "modPrefix": "druidSurv_Outliers",
   "displayedName": "Swarm Orange",
   "description": "All Swarms start somewhere. Or end somewhere.",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],

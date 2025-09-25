@@ -1,5 +1,5 @@
 {
-  "name": "_Triple_Dart",
+  "name": "Triple_Dart",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Triple Dart",
   "description": "todo",
@@ -7,10 +7,10 @@
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
-  "baseHealth": 3,
+  "baseHealth": 1,
   "bloodCost": 2,
   "tribes": [ "druidSurv_Primary" ],
-  "abilities": [ "TriStrike", "nevernamed.inscryption.sigils_Immaterial" ],
-  "emissionTexture": "r_neutral_emission.png",
+  "abilities": [ "TriStrike" ],
+  "emissionTexture": "druidSurv_emission.png",
   "texture": "druidSurv_TriDart.png"
 }

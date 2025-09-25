@@ -1,0 +1,19 @@
+{
+  "name": "Bloon_CleverYellow",
+  "modPrefix": "druidSurv_LeadSet",
+  "displayedName": "Clever Yellow",
+  "description": "Eats well, gets plenty of sleep, regular exercise. That's a clever Bloon!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 3,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Tender Bond" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",
+  "texture": "druidSurv_Yellow.png"
+}

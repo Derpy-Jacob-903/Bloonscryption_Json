@@ -1,0 +1,17 @@
+{
+  "name": "HoVDruid",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Heart of Vengeance",
+  "description": "What doesn't kill us makes us stronger.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [ "druidSurv_Magic" ],
+  "abilities": [ "SplitStrike", "nevernamed.inscryption.sigils_Enraged" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_HoTDruid.png",
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "NinjaMonkey",
+  "modPrefix": "druidSurv_CamoSet",
+  "displayedName": "Ninja",
+  "description": "...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "bloodCost": 1,
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "tribes": [ "druidSurv_Magic" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Diver" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_Dart.png",
+  "extensionProperties": {
+    "AvailableInBottle": "true",
+  },
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

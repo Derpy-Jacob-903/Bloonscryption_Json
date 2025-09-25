@@ -1,5 +1,5 @@
 {
-  "name": "_Sniper",
+  "name": "SniperMonkey",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Sniper",
   "description": "Over 900 confirmed pops. That's just today.",
@@ -10,6 +10,6 @@
   "baseHealth": 1,
   "bloodCost": 1,
   "tribes": [ "druidSurv_Military" ],
-  "abilities": [ "Sniper", "nevernamed.inscryption.sigils_Docile"],
+  "abilities": [ "Sniper", "nevernamed.inscryption.sigils_Docile" ],
   "texture": "druidSurv_Xbow.png"
 }

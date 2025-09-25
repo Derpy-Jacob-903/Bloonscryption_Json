@@ -1,6 +1,6 @@
 {
-  "name": "druidSurv_Bomb",
-  "modPrefix": "druidSurv",
+  "name": "Bomb",
+  "modPrefix": "druidSurv_LeadSet",
   "displayedName": "Bomb",
   "description": "This bad boy was made for armor piercing",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],

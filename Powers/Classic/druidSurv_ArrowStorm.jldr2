@@ -1,16 +1,16 @@
 {
-  "name": "druidSurv_ArrowStorm",
+  "name": "_ArrowStorm",
   "modPrefix": "druidSurv",
   "displayedName": "Storm Of Arrows",
   "description": "This is bound to hit something.",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Tech",
-  "baseAttack": 4,
+  "baseAttack": 3,
   "baseHealth": 1,
   "energyCost": 3,
   "tribes": [ "druidSurv_Power" ],
-  "abilities": [ "nevernamed.inscryption.sigils_Preemptive Strike", "nevernamed.inscryption.sigils_Preemptive Strike", "druidSurv.sigils_Swarm", "nevernamed.inscryption.sigils_Instant Effect" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Preemptive Strike", "SplitStrike", "nevernamed.inscryption.sigils_Instant Effect" ],
   "pixelTexture": "druidSurv_DartPixel.png",
   "appearanceBehavior": [ "nevernamed.inscryption.sigils_InstantEffectBackground" ]
 }

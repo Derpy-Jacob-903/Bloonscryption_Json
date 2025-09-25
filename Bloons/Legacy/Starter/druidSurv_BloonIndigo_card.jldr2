@@ -1,6 +1,6 @@
 {
-  "name": "druidSurv_Bloon_Indigo",
-  "modPrefix": "druidSurv_Bloon",
+  "name": "Bloon_Indigo",
+  "modPrefix": "druidSurv_Outliers",
   "displayedName": "Indigo Bloon",
   "description": "The aquauic nemesis of all Monkey-kind",
   "metaCategories": [ "zorro.inscryption.infiniscryption.sidedecks.SideDeck" ],

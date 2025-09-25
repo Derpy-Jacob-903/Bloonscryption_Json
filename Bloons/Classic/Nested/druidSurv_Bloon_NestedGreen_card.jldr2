@@ -1,8 +1,8 @@
 {
-  "name": "_Bloon_NestedGreen",
+  "name": "Bloon_NestedGreen",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Nested Green",
-  "description": "The Bloons are always greener on the other side.",
+  "description": "Bloons are not like onions!",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

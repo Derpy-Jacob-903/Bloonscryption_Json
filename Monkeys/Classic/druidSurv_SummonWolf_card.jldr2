@@ -1,0 +1,19 @@
+{
+  "name": "SWolf",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Summon Wolf",
+  "description": "Bark at the moon.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bonesCost": 5,
+  "tribes": [ "druidSurv_Power", "Canine" ],
+  "abilities": [ "DrawRabbits", "nevernamed.inscryption.sigils_Instant Effect" ],
+  "altTexture": "druidSurv_emission.png",
+  "texture": "druidSurv_Dart.png",
+  "extensionProperties": {
+    "CustomRabbitHoleDefinition": "druidSurv_Classic_WolfS"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "druidSurv_Bloon_Olive",
-  "modPrefix": "druidSurv_Bloon",
+  "name": "Bloon_Olive",
+  "modPrefix": "druidSurv_Outliers",
   "displayedName": "Camo Bloon",
   "description": "Full of cards and covered in stripes!",
   "metaCategories": [ "TraderOffer" ],
@@ -15,7 +15,7 @@
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
   "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
   "pixelTexture": "druidSurv_BloonGreen_PixelSprite.png",
-  "texture": "druidSurv_Olive.png",
+  "texture": "druidSurv_Oilve.png",
   "extensionProperties": {
 	"CSDIsSideDeck": "true",
 	"CSDSideDeckType": "Basic",

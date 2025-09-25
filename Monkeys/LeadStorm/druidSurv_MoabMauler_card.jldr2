@@ -1,0 +1,21 @@
+{
+  "name": "MoabMauler",
+  "modPrefix": "druidSurv_LeadSet",
+  "displayedName": "MOAB Mauler",
+  "description": "Take a chomp outta those Big Bloons",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "bonesCost": 2,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "druidSurv.sigils_Armor-Piercing", "nevernamed.inscryption.sigils_Dog Gone" ],
+  "defaultEvolutionName": "Bigger MOAB Mauler",
+  "texture": "druidSurv_Dart.png",
+  "extensionProperties": {
+    "AvailableInBottle": "true",
+  },
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

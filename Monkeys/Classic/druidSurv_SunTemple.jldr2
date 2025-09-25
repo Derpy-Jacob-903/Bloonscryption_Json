@@ -1,5 +1,5 @@
 {
-  "name": "_SunTemple",
+  "name": "SunTemple",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Sun Temple",
   "description": "Maybe don't let your beasts know you're about to play this.",
@@ -14,6 +14,7 @@
   "tribes": [ "druidSurv_Magic" ],
   "abilities": [ "AllStrike", "nevernamed.inscryption.sigils_Giant", "nevernamed.inscryption.sigils_Sanguine" ], 
   "traits": ["DeathcardCreationNonOption"],
+  "texture": "druidSurv_Super.png",
   "defaultEvolutionName": "True Sun God",
   "extensionProperties": {
     "BannedFromCampfire": "Yes",

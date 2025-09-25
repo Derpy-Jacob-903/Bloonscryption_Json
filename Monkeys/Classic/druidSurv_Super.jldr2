@@ -1,5 +1,5 @@
 {
-  "name": "_Super",
+  "name": "Super",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Super Monkey",
   "description": "Oh you're from the Fan Club? Of course you are.",
@@ -13,7 +13,7 @@
   "tribes": [ "druidSurv_Magic" ],
   "abilities": [ "nevernamed.inscryption.sigils_Triple Strike", "nevernamed.inscryption.sigils_Trophy Hunter", "nevernamed.inscryption.sigils_Docile" ], 
   "altTexture": "druidSurv_emission.png",
-  "texture": "druidSurv_HoTDruid.png",
+  "texture": "druidSurv_Super.png",
   "extensionProperties": {
   "CustomDocileCounter": 3
   }

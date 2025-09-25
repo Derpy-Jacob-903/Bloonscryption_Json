@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Bloon_CamoYellow",
-  "modPrefix": "druidSurv_Bloon2",
+  "name": "CamoYellow",
+  "modPrefix": "druidSurv_CamoSet",
   "displayedName": "Camo Yellow",
-  "description": "Well that's one way to slow traffic...",
+  "description": "...",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

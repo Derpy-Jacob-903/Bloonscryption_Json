@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Bloon_Cyan",
-  "modPrefix": "druidSurv_Bloon",
+  "name": "Bloon_Cyan",
+  "modPrefix": "druidSurv_Outliers",
   "displayedName": "Cyan Bloon",
-  "description": "The classic nemesis of all Monkey-kind",
+  "description": "It has [c:bSG]connections[c:].",
   "metaCategories": [ "zorro.inscryption.infiniscryption.sidedecks.SideDeck" ],
   "cardComplexity": "Vanilla",
   "temple": "Tech",
@@ -10,7 +10,7 @@
   "baseHealth": 2,
   "energyCost": 1,
   "tribes": [ "druidSurv_SmallBloon" ],
-  "abilities": [ "druidSurv.sigils_Delayed Attack" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "ConduitNull", "nevernamed.inscryption.sigils_Meaningless Bond" ],
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
   "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
   "texture": "druidSurv_Cyan.png",
@@ -19,6 +19,6 @@
   "CSDIsSideDeck": "true",
   "CSDSideDeckType": "Basic",
   "CSDIsAqua": "false",
-  "CSDChallengePoints": "-5"
+  "CSDChallengePoints": "-15"
 	}
 }

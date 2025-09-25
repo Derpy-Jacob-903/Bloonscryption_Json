@@ -1,0 +1,22 @@
+{
+  "name": "Bloon_CleverLead",
+  "modPrefix": "druidSurv_LeadSet",
+  "displayedName": "Clever Lead",
+  "description": "I mean... it's not opening doors. We probably don't need to worry.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "bonesCost": 3,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Sturdy", "nevernamed.inscryption.sigils_Nano Conduit" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonLead_PixelSprite.png",
+  "texture": "druidSurv_Lead.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "2"
+  }
+}

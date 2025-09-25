@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Bloon_CamoBlue",
-  "modPrefix": "druidSurv_Bloon2",
+  "name": "Bloon_CamoBlue",
+  "modPrefix": "druidSurv_CamoSet",
   "displayedName": "Camo Blue",
-  "description": "You hardly see them against the clear midday sky.",
+  "description": "...",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

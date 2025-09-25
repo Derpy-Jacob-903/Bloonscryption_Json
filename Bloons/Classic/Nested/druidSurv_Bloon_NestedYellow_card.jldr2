@@ -1,8 +1,8 @@
 {
-  "name": "_Bloon_NestedYellow",
+  "name": "Bloon_NestedYellow",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "Nested Yellow",
-  "description": "Well that's one way to slow traffic...",
+  "description": "We've all heard of double stuffed, but this is a bit much.",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

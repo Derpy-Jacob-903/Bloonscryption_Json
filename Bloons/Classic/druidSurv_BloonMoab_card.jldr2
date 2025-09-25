@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Bloon_Moab",
+  "name": "Bloon_Moab",
   "modPrefix": "druidSurv_Classic",
   "displayedName": "MOAB",
-  "description": "Patch has this one noted down as \"most unnatural.\"",
+  "description": "The Mother of All Bloons!",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",

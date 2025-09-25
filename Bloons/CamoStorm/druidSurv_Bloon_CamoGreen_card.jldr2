@@ -1,8 +1,8 @@
 {
-  "name": "druidSurv_Bloon_CamoGreen",
-  "modPrefix": "druidSurv_Bloon2",
+  "name": "Bloon_CamoGreen",
+  "modPrefix": "druidSurv_CamoSet",
   "displayedName": "Camo Green",
-  "description": "The Bloons are always greener on the other side.",
+  "description": "...",
   "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Vanilla",
   "temple": "Nature",
