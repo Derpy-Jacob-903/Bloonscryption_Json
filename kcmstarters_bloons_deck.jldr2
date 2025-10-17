@@ -5,7 +5,7 @@
       "cards": [
 	    "druidSurv_Grover",
         "Raven",
-        "druidSurv_Classic_Bloon_Moab"
+        "druidSurv_Outlier_HotBoomerang"
       ],
       "iconTexture": "starter_bloon.png"
     },
@@ -32,7 +32,7 @@
       "cards": [
 	    "druidSurv_Amelia",
         "druidSurv_Outlier_Bloon_Purple",
-        "druidSurv_Classic_Bloon_Golden"
+        "druidSurv_Classic_Bloon_BlonGas"
       ],
       "iconTexture": "starter_bloon.png"
     },
@@ -60,6 +60,15 @@
 	    "druidSurv_CamoSet_NinjaMonkey",
         "druidSurv_Classic_Mortar",
         "druidSurv_LeadSet_MoabMauler"
+      ],
+      "iconTexture": "starter_bloon.png"
+    },
+    {
+      "name": "Mnt. Obyn Starter",
+      "cards": [
+	    "DireWolf",
+        "druidSurv_CamoSet_NinjaMonkey",
+        "druidSurv_Classic_TDruid"
       ],
       "iconTexture": "starter_bloon.png"
     },

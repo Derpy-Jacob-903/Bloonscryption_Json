@@ -1,0 +1,18 @@
+{
+  "name": "CamoAmber",
+  "modPrefix": "druidSurv_CamoSet",
+  "displayedName": "Camo Amber",
+  "description": "...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bonesCost": 4,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "druidSurv.sigils_Camo" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",
+  "texture": "druidSurv_Yellow.png"
+}

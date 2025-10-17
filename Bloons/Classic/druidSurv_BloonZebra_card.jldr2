@@ -9,7 +9,7 @@
   "baseAttack": 0,
   "baseHealth": 5,
   "bloodCost": 2,
-  "bonesCost": 3,
+  "bonesCost": 0,
   "tribes": [ "druidSurv_SmallBloon" ],
   "abilities": ["nevernamed.inscryption.sigils_Death Snatch", "nevernamed.inscryption.sigils_Draw", "druidSurv.sigils_Delayed Attack" ],
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],

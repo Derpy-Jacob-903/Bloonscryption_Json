@@ -1,0 +1,22 @@
+{
+  "name": "Bloon_CamoOlive",
+  "modPrefix": "druidSurv_CamoSet",
+  "displayedName": "Camo Oilve",
+  "description": "...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 6,
+  "bloodCost": 2,
+  "bonesCost": 0,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "druidSurv.sigils_Camo", "nevernamed.inscryption.sigils_Sturdy" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonGreen_PixelSprite.png",
+  "texture": "druidSurv_Oilve.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "3"
+  }
+}

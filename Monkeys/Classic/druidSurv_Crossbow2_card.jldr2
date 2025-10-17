@@ -1,0 +1,17 @@
+{
+  "name": "Crossbow",
+  "modPrefix": "druidSurv_Outlier",
+  "displayedName": "Crossbow",
+  "description": "Wait, some Monkeys actually throw the darts?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "tribes": [ "druidSurv_Primary" ],
+  "abilities": [ "DoubleStrike", "Transformer" ],
+  "evolveIntoName": "druidSurv_Classic_Crossbow",
+  "texture": "druidSurv_Xbow.png",
+  "pixelTexture": "druidSurv_DartPixel.png"
+}

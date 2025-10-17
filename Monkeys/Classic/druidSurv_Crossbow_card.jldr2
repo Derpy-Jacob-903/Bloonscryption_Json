@@ -6,11 +6,12 @@
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
-  "baseAttack": 2,
+  "baseAttack": 1,
   "baseHealth": 2,
   "bloodCost": 2,
   "tribes": [ "druidSurv_Primary" ],
-  "abilities": [ "DoubleStrike", "nevernamed.inscryption.sigils_Docile" ],
+  "abilities": [ "DoubleStrike", "Transformer" ],
+  "evolveIntoName": "druidSurv_Outlier_Crossbow",
   "texture": "druidSurv_Xbow.png",
   "pixelTexture": "druidSurv_DartPixel.png"
 }

@@ -1,0 +1,81 @@
+{
+  "cardName": "druidSurv_Quincy",
+  "faceSprite": "druidSurv_Quincy_eyes.png",
+  "eyeSprites": {
+    "open": "druidSurv_thequiet_eyes.png",
+    "closed": "druidSurv_thequiet_closed.png"
+  },
+  "mouthSprites": {
+    "open": "druidSurv_Grover_neutral_mouth_open.png",
+    "closed": "druidSurv_Grover_neutral_mouth_closed.png"
+  },
+  "emissionSprite": "druidSurv_thequiet_eyes.png",
+  "faceInfo": {
+    "blinkRate": 1.5,
+    "voiceId": "female1_voice",
+    "voiceSoundPitch": 0
+  },
+  "emotions": [
+    {
+      "emotion": "Anger",
+      "eyeSprites": {
+        "open": "druidSurv_Talker_eyes.png",
+        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "druidSurv_Talker_eyes.png",
+        "closed": "druidSurv_Grover_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "druidSurv_Grover_angry_emission.png"
+    },
+    {
+      "emotion": "Quiet",
+      "eyeSprites": {
+        "open": "druidSurv_Talker_eyes.png",
+        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "druidSurv_Grover_neutral_mouth_open.png",
+        "closed": "druidSurv_Grover_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "druidSurv_Grover_quiet_emission.png"
+    },
+    {
+      "emotion": "Laughter",
+      "eyeSprites": {
+        "open": "druidSurv_Talker_eyes.png",
+        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "druidSurv_Grover_neutral_mouth_open.png",
+        "closed": "druidSurv_Grover_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "druidSurv_Grover_laughtedruidSurv_Grover_emission.png"
+    },
+    {
+      "emotion": "Surprise",
+      "eyeSprites": {
+        "open": "druidSurv_Talker_eyes.png",
+        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "druidSurv_Grover_neutral_mouth_open.png",
+        "closed": "druidSurv_Grover_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "druidSurv_Grover_surprised_emission.png"
+    },
+    {
+      "emotion": "Curious",
+      "eyeSprites": {
+        "open": "druidSurv_Talker_eyes.png",
+        "closed": "druidSurv_Grover_neutral_eye_closed.png"
+      },
+      "mouthSprites": {
+        "open": "druidSurv_Grover_neutral_mouth_open.png",
+        "closed": "druidSurv_Grover_neutral_mouth_closed.png"
+      },
+      "emissionSprite": "druidSurv_Grover_neutral_emission.png"
+    }
+  ],
+  "dialogueEvents": []
+}

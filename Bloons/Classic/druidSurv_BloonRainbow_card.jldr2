@@ -11,7 +11,7 @@
   "bloodCost": 1,
   "bonesCost": 6,
   "tribes": [ "druidSurv_SmallBloon" ],
-  "abilities": ["TripleBlood", "QuadrupleBones", "druidSurv.sigils_Delayed Attack" ],
+  "abilities": ["TripleBlood", "druidSurv.sigils_Delayed Attack" ],
   "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
   "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
   "pixelTexture": "druidSurv_BloonWhite_PixelSprite.png",

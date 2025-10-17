@@ -1,7 +1,7 @@
 {
   "Title": "Bloonscryption (Outlier)",
   "Description": "Adds Monkeys and Bloons.",
-  "ModPrefix": "druidSurv_Bloon",
+  "ModPrefix": "druidSurv_Outlier",
   "PackArt": "LegacyPack.png",
   "ValidFor": ["LeshyPack"]
 }

@@ -1,0 +1,25 @@
+{
+  "name": "druidSurv_Quincy",
+  "modPrefix": "druidSurv",
+  "displayedName": "Quincy",
+  "description": "His bow never misses.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [ ],
+  "traits": [ ],
+  "abilities": [
+    "Sniper", "Evolve"
+  ],
+  "specialAbilities": [ "TalkingCardChooser" ],
+  "onePerDeck": true,
+  "flipPortraitForStrafe": false,
+  "tailName": "Tail_Furry",
+  "pixelTexture": "druidSurv_Grover_PixelSprite.png",
+  "evolveTurns": 2
+}

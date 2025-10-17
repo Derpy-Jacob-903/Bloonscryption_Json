@@ -16,6 +16,7 @@
   "pixelTexture": "druidSurv_BloonUndead_PixelSprite.png",
   "texture": "druidSurv_Undead.png",
   "extensionProperties": {
-    "CustomDelayedCounter": "3"
+    "CustomDelayedCounter": "3",
+	"PrismCost": 1
   }
 }

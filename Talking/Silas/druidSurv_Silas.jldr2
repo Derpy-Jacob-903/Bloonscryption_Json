@@ -1,0 +1,25 @@
+{
+  "name": "druidSurv_Silas",
+  "modPrefix": "druidSurv",
+  "displayedName": "Sheep",
+  "description": "His bow never misses.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "energyCost": 2,
+  "tribes": [ "Hooved" ],
+  "traits": [ ],
+  "abilities": [
+    "Sniper", "Evolve"
+  ],
+  "specialAbilities": [ "TalkingCardChooser" ],
+  "onePerDeck": true,
+  "flipPortraitForStrafe": false,
+  "tailName": "Tail_Furry",
+  "pixelTexture": "druidSurv_Grover_PixelSprite.png"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bloon_BlonGas",
+  "modPrefix": "druidSurv_Classic",
+  "displayedName": "Bloontonium Gas",
+  "description": "Dr. Monkey wasn't sure it even had a gaseous state.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "bonesCost": 0,
+  "energyCost": 2,
+  "tribes": [ "druidSurv_SmallBloon" ],
+  "abilities": [ "druidSurv.sigils_Delayed Attack", "nevernamed.inscryption.sigils_Bone Spurs", "" ],
+  "specialAbilities": ["nevernamed.inscryption.sigils_Health Damage"],
+  "specialStatIcon": "nevernamed.inscryption.sigils_Health Damage",
+  "pixelTexture": "druidSurv_BloonYellow_PixelSprite.png",
+  "texture": "druidSurv_Gold.png",
+  "extensionProperties": {
+    "CustomDelayedCounter": "4"
+  }
+}
